@@ -1,3 +1,4 @@
+#labels Featured,Phase-Deploy
 =Just4Kix: An Image Viewer and Comic Book Reader=
 
 ==Introduction==
@@ -44,8 +45,12 @@ command in the system.
   * *h* help page
   * *q* quit
 
+==Useful links==
+  * http://cbrforums.info/cbr/
+  * http://thecomicproject.blogspot.com/
+  * http://comic-guy.blogspot.com/
 
-
+Enjoy!
 
 
 
