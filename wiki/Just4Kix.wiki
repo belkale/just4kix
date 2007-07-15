@@ -1,4 +1,4 @@
-#Just4Kix Image Viewer and Comic Book Reader
+=Just4Kix Image Viewer and Comic Book Reader=
 
 = Introduction =
 Just4Kix is a simple image viewer and comic book reader. It supports Image 
