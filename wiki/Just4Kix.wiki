@@ -20,7 +20,7 @@ command in the system.
 
 ==How do I start?==
 ===Dependencies===
-  * Needs JDK 1.6 (JavaSE 6). This can be downloaded from http://java.sun.com/javase/downloads/index.jsp
+  * Needs JDK 1.6 (JavaSE 6) or above. This can be downloaded from http://java.sun.com/javase/downloads/index.jsp
   * Unrar command has to be installed for supporting .rar and .cbr format. In Windows, this comes along with winrar and in Linux, this can be downloaded from http://www.tucows.com/software_detail.html?id=8753. Dont forget to set the correct unrar command and arguments in the setting page.
 
 ===Starting Just4Kix===
@@ -53,4 +53,3 @@ command in the system.
   * Unrar for Linux: http://www.tucows.com/software_detail.html?id=8753
 
 ===Enjoy!===
-
