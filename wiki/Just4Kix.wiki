@@ -1,0 +1,24 @@
+#Just4Kix Image Viewer and Comic Book Reader
+
+= Introduction =
+Just4Kix is a simple image viewer and comic book reader. It supports Image 
+Directory, JPG, GIF, BMP, PNG, ZIP, CBZ, RAR and CBR. Just4Kix is entirely 
+writtern in Java. CBR and RAR file support depends on availability of unrar 
+command in the system.
+
+
+= Details =
+
+KeyBoard shortcuts
+* *o* Open a directory
+* *space* next
+* *backspace* previous
+* *pagedown* next page
+* "pageup" previous page
+* *d* zoom in
+* *u* zoom out
+* *r* rotate clockwise
+* *l* rotate anticlockwise
+* *g* go to a page
+* *h* help page
+* *q* quit
