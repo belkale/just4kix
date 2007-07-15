@@ -18,7 +18,7 @@ command in the system.
   * Continue feature to continue from previous exit point  
   * Slideshow
 
-==Running Just4Kix==
+==How do I start?==
 ===Dependencies===
   * Needs JDK 1.6 (JavaSE 6). This can be downloaded from http://java.sun.com/javase/downloads/index.jsp
   * Unrar command has to be installed for supporting .rar and .cbr format. In Windows, this comes along with winrar and in Linux, this can be downloaded from http://www.tucows.com/software_detail.html?id=8753. Dont forget to set the correct unrar command and arguments in the setting page.
@@ -51,7 +51,6 @@ command in the system.
   * http://comic-guy.blogspot.com/
 
 ===Enjoy!===
-
 
 
 
